@@ -1,0 +1,3411 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		<!DOCTYPE html>
+
+
+
+
+
+
+
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+	
+	
+	
+	
+		
+		
+		
+	
+	
+		
+	
+	
+	
+	
+	
+
+	
+	
+	
+
+	
+	
+	
+
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html class="aui ltr" dir="ltr" lang="en-US">
+
+<head>
+	<meta content="initial-scale=1.0, width=device-width" name="viewport" />
+	
+			<title>Buscador Ofertas - Nortempo</title>
+		<meta property="og:title" content="Nortempo - Ofertas de empleo" />
+		<meta property="og:description" content="" >
+		
+				
+	<meta property="og:image" content="http://empleo.nortempo.com/Nortempo-theme/images/logo_metatag.png">	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+<link href="http://empleo.nortempo.com/Nortempo-theme/images/favicon.ico" rel="Shortcut Icon" />
+
+
+
+
+
+	<link href="http&#x3a;&#x2f;&#x2f;empleo&#x2e;nortempo&#x2e;com&#x2f;buscar-ofertas&#x3f;p_p_id&#x3d;Buscadordeofertas_WAR_Candidatosportlet&#x26;p_p_lifecycle&#x3d;0&#x26;p_p_state&#x3d;normal&#x26;p_p_mode&#x3d;view&#x26;p_p_col_id&#x3d;column-1&#x26;p_p_col_pos&#x3d;1&#x26;p_p_col_count&#x3d;2&#x26;_Buscadordeofertas_WAR_Candidatosportlet_paginator&#x3d;1&#x26;_Buscadordeofertas_WAR_Candidatosportlet_action&#x3d;volver&#x26;_Buscadordeofertas_WAR_Candidatosportlet_filtroProvincias&#x3d;Zaragoza&#x2f;favicon&#x2e;ico" rel="canonical" />
+
+	
+
+			
+
+			<link href="http&#x3a;&#x2f;&#x2f;empleo&#x2e;nortempo&#x2e;com&#x2f;ca&#x2f;buscar-ofertas" hreflang="ca-ES" rel="alternate" />
+
+	
+
+			
+
+			<link href="http&#x3a;&#x2f;&#x2f;empleo&#x2e;nortempo&#x2e;com&#x2f;zh&#x2f;buscar-ofertas" hreflang="zh-CN" rel="alternate" />
+
+	
+
+			
+
+			<link href="http&#x3a;&#x2f;&#x2f;empleo&#x2e;nortempo&#x2e;com&#x2f;en&#x2f;buscar-ofertas" hreflang="en-US" rel="alternate" />
+
+	
+
+			
+
+			<link href="http&#x3a;&#x2f;&#x2f;empleo&#x2e;nortempo&#x2e;com&#x2f;fi&#x2f;buscar-ofertas" hreflang="fi-FI" rel="alternate" />
+
+	
+
+			
+
+			<link href="http&#x3a;&#x2f;&#x2f;empleo&#x2e;nortempo&#x2e;com&#x2f;fr&#x2f;buscar-ofertas" hreflang="fr-FR" rel="alternate" />
+
+	
+
+			
+
+			<link href="http&#x3a;&#x2f;&#x2f;empleo&#x2e;nortempo&#x2e;com&#x2f;de&#x2f;buscar-ofertas" hreflang="de-DE" rel="alternate" />
+
+	
+
+			
+
+			<link href="http&#x3a;&#x2f;&#x2f;empleo&#x2e;nortempo&#x2e;com&#x2f;iw&#x2f;buscar-ofertas" hreflang="iw-IL" rel="alternate" />
+
+	
+
+			
+
+			<link href="http&#x3a;&#x2f;&#x2f;empleo&#x2e;nortempo&#x2e;com&#x2f;hu&#x2f;buscar-ofertas" hreflang="hu-HU" rel="alternate" />
+
+	
+
+			
+
+			<link href="http&#x3a;&#x2f;&#x2f;empleo&#x2e;nortempo&#x2e;com&#x2f;ja&#x2f;buscar-ofertas" hreflang="ja-JP" rel="alternate" />
+
+	
+
+			
+
+			<link href="http&#x3a;&#x2f;&#x2f;empleo&#x2e;nortempo&#x2e;com&#x2f;pt&#x2f;buscar-ofertas" hreflang="pt-BR" rel="alternate" />
+
+	
+
+			
+				<link href="http&#x3a;&#x2f;&#x2f;empleo&#x2e;nortempo&#x2e;com&#x2f;buscar-ofertas&#x3f;p_p_id&#x3d;Buscadordeofertas_WAR_Candidatosportlet&#x26;p_p_lifecycle&#x3d;0&#x26;p_p_state&#x3d;normal&#x26;p_p_mode&#x3d;view&#x26;p_p_col_id&#x3d;column-1&#x26;p_p_col_pos&#x3d;1&#x26;p_p_col_count&#x3d;2&#x26;_Buscadordeofertas_WAR_Candidatosportlet_paginator&#x3d;1&#x26;_Buscadordeofertas_WAR_Candidatosportlet_action&#x3d;volver&#x26;_Buscadordeofertas_WAR_Candidatosportlet_filtroProvincias&#x3d;Zaragoza&#x2f;favicon&#x2e;ico" hreflang="x-default" rel="alternate" />
+			
+
+			<link href="http&#x3a;&#x2f;&#x2f;empleo&#x2e;nortempo&#x2e;com&#x2f;buscar-ofertas" hreflang="es-ES" rel="alternate" />
+
+	
+
+
+
+
+
+<link class="lfr-css-file" href="http&#x3a;&#x2f;&#x2f;empleo&#x2e;nortempo&#x2e;com&#x2f;Nortempo-theme&#x2f;css&#x2f;aui&#x2e;css&#x3f;browserId&#x3d;other&#x26;themeId&#x3d;Nortempo_WAR_Nortempotheme&#x26;minifierType&#x3d;css&#x26;languageId&#x3d;en_US&#x26;b&#x3d;6203&#x26;t&#x3d;1506340004898" rel="stylesheet" type="text/css" />
+
+<link href="&#x2f;html&#x2f;css&#x2f;main&#x2e;css&#x3f;browserId&#x3d;other&#x26;themeId&#x3d;Nortempo_WAR_Nortempotheme&#x26;minifierType&#x3d;css&#x26;languageId&#x3d;en_US&#x26;b&#x3d;6203&#x26;t&#x3d;1429138192000" rel="stylesheet" type="text/css" />
+
+
+
+
+
+
+
+
+
+	
+
+				<link href="http://empleo.nortempo.com/privacy-portlet/css/main.css?browserId=other&amp;themeId=Nortempo_WAR_Nortempotheme&amp;minifierType=css&amp;languageId=en_US&amp;b=6203&amp;t=1599282733369" rel="stylesheet" type="text/css" />
+
+	
+
+				<link href="http://empleo.nortempo.com/Candidatos-portlet/plugins/jquery-ui/jquery-ui.min.css?browserId=other&amp;themeId=Nortempo_WAR_Nortempotheme&amp;minifierType=css&amp;languageId=en_US&amp;b=6203&amp;t=1599282733369" rel="stylesheet" type="text/css" />
+
+	
+
+				<link href="http://empleo.nortempo.com/Candidatos-portlet/plugins/jquery-dataTables/css/jquery.dataTables.min.css?browserId=other&amp;themeId=Nortempo_WAR_Nortempotheme&amp;minifierType=css&amp;languageId=en_US&amp;b=6203&amp;t=1599282733369" rel="stylesheet" type="text/css" />
+
+	
+
+				<link href="http://empleo.nortempo.com/Candidatos-portlet/plugins/jquery-dataTables/css/jquery.dataTables_themeroller.css?browserId=other&amp;themeId=Nortempo_WAR_Nortempotheme&amp;minifierType=css&amp;languageId=en_US&amp;b=6203&amp;t=1599282733369" rel="stylesheet" type="text/css" />
+
+	
+
+				<link href="http://empleo.nortempo.com/Candidatos-portlet/css/main.css?browserId=other&amp;themeId=Nortempo_WAR_Nortempotheme&amp;minifierType=css&amp;languageId=en_US&amp;b=6203&amp;t=1599282733369" rel="stylesheet" type="text/css" />
+
+	
+
+				<link href="http://empleo.nortempo.com/Candidatos-portlet/css/main-buscador-ofertas.css?browserId=other&amp;themeId=Nortempo_WAR_Nortempotheme&amp;minifierType=css&amp;languageId=en_US&amp;b=6203&amp;t=1599282733369" rel="stylesheet" type="text/css" />
+
+	
+
+				<link href="http://empleo.nortempo.com/Candidatos-portlet/css/main-buscador-ofertas-interno.css?browserId=other&amp;themeId=Nortempo_WAR_Nortempotheme&amp;minifierType=css&amp;languageId=en_US&amp;b=6203&amp;t=1599282733369" rel="stylesheet" type="text/css" />
+
+	
+
+				<link href="http://empleo.nortempo.com/Candidatos-portlet/css/main-buscador-ofertas-details-oferta.css?browserId=other&amp;themeId=Nortempo_WAR_Nortempotheme&amp;minifierType=css&amp;languageId=en_US&amp;b=6203&amp;t=1599282733369" rel="stylesheet" type="text/css" />
+
+	
+
+				<link href="http://empleo.nortempo.com/notifications-portlet/notifications/css/main.css?browserId=other&amp;themeId=Nortempo_WAR_Nortempotheme&amp;minifierType=css&amp;languageId=en_US&amp;b=6203&amp;t=1599282733369" rel="stylesheet" type="text/css" />
+
+	
+
+				<link href="http://empleo.nortempo.com/html/portlet/login/css/main.css?browserId=other&amp;themeId=Nortempo_WAR_Nortempotheme&amp;minifierType=css&amp;languageId=en_US&amp;b=6203&amp;t=1599282735375" rel="stylesheet" type="text/css" />
+
+	
+
+
+
+
+
+
+
+<script type="text/javascript">
+	// <![CDATA[
+		var Liferay = {
+			Browser: {
+				acceptsGzip: function() {
+					return true;
+				},
+				getMajorVersion: function() {
+					return 79.0;
+				},
+				getRevision: function() {
+					return "537.36";
+				},
+				getVersion: function() {
+					return "79.0";
+				},
+				isAir: function() {
+					return false;
+				},
+				isChrome: function() {
+					return true;
+				},
+				isFirefox: function() {
+					return false;
+				},
+				isGecko: function() {
+					return true;
+				},
+				isIe: function() {
+					return false;
+				},
+				isIphone: function() {
+					return false;
+				},
+				isLinux: function() {
+					return false;
+				},
+				isMac: function() {
+					return false;
+				},
+				isMobile: function() {
+					return false;
+				},
+				isMozilla: function() {
+					return false;
+				},
+				isOpera: function() {
+					return false;
+				},
+				isRtf: function() {
+					return true;
+				},
+				isSafari: function() {
+					return true;
+				},
+				isSun: function() {
+					return false;
+				},
+				isWap: function() {
+					return false;
+				},
+				isWapXhtml: function() {
+					return false;
+				},
+				isWebKit: function() {
+					return true;
+				},
+				isWindows: function() {
+					return true;
+				},
+				isWml: function() {
+					return false;
+				}
+			},
+
+			Data: {
+				NAV_SELECTOR: '#navigation',
+
+				isCustomizationView: function() {
+					return false;
+				},
+
+				notices: [
+					null
+
+					
+
+					
+				]
+			},
+
+			ThemeDisplay: {
+				
+					getLayoutId: function() {
+						return "5";
+					},
+					getLayoutURL: function() {
+						return "http://empleo.nortempo.com/buscar-ofertas";
+					},
+					getParentLayoutId: function() {
+						return "0";
+					},
+					isPrivateLayout: function() {
+						return "false";
+					},
+					isVirtualLayout: function() {
+						return false;
+					},
+				
+
+				getBCP47LanguageId: function() {
+					return "en-US";
+				},
+				getCDNBaseURL: function() {
+					return "http://empleo.nortempo.com";
+				},
+				getCDNDynamicResourcesHost: function() {
+					return "";
+				},
+				getCDNHost: function() {
+					return "";
+				},
+				getCompanyId: function() {
+					return "10154";
+				},
+				getCompanyGroupId: function() {
+					return "10194";
+				},
+				getDefaultLanguageId: function() {
+					return "es_ES";
+				},
+				getDoAsUserIdEncoded: function() {
+					return "";
+				},
+				getLanguageId: function() {
+					return "en_US";
+				},
+				getParentGroupId: function() {
+					return "10181";
+				},
+				getPathContext: function() {
+					return "";
+				},
+				getPathImage: function() {
+					return "/image";
+				},
+				getPathJavaScript: function() {
+					return "/html/js";
+				},
+				getPathMain: function() {
+					return "/c";
+				},
+				getPathThemeImages: function() {
+					return "http://empleo.nortempo.com/Nortempo-theme/images";
+				},
+				getPathThemeRoot: function() {
+					return "/Nortempo-theme";
+				},
+				getPlid: function() {
+					return "12804";
+				},
+				getPortalURL: function() {
+					return "http://empleo.nortempo.com";
+				},
+				getPortletSetupShowBordersDefault: function() {
+					return true;
+				},
+				getScopeGroupId: function() {
+					return "10181";
+				},
+				getScopeGroupIdOrLiveGroupId: function() {
+					return "10181";
+				},
+				getSessionId: function() {
+					
+						
+						
+							return "";
+						
+					
+				},
+				getSiteGroupId: function() {
+					return "10181";
+				},
+				getURLControlPanel: function() {
+					return "/group/control_panel?refererPlid=12804";
+				},
+				getURLHome: function() {
+					return "http\x3a\x2f\x2fempleo\x2enortempo\x2ecom\x2fweb\x2fguest";
+				},
+				getUserId: function() {
+					return "10158";
+				},
+				getUserName: function() {
+					
+						
+						
+							return "";
+						
+					
+				},
+				isAddSessionIdToURL: function() {
+					return false;
+				},
+				isFreeformLayout: function() {
+					return false;
+				},
+				isImpersonated: function() {
+					return false;
+				},
+				isSignedIn: function() {
+					return false;
+				},
+				isStateExclusive: function() {
+					return false;
+				},
+				isStateMaximized: function() {
+					return false;
+				},
+				isStatePopUp: function() {
+					return false;
+				}
+			},
+
+			PropsValues: {
+				NTLM_AUTH_ENABLED: false
+			}
+		};
+
+		var themeDisplay = Liferay.ThemeDisplay;
+
+		
+
+		Liferay.AUI = {
+			getAvailableLangPath: function() {
+				return 'available_languages.jsp?browserId=other&themeId=Nortempo_WAR_Nortempotheme&colorSchemeId=01&minifierType=js&languageId=en_US&b=6203&t=1429195226000';
+			},
+			getCombine: function() {
+				return true;
+			},
+			getComboPath: function() {
+				return '/combo/?browserId=other&minifierType=&languageId=en_US&b=6203&t=1429195226000&';
+			},
+			getFilter: function() {
+				
+					
+						return 'min';
+					
+					
+					
+				
+			},
+			getJavaScriptRootPath: function() {
+				return '/html/js';
+			},
+			getLangPath: function() {
+				return 'aui_lang.jsp?browserId=other&themeId=Nortempo_WAR_Nortempotheme&colorSchemeId=01&minifierType=js&languageId=en_US&b=6203&t=1429195226000';
+			}
+		};
+
+		Liferay.authToken = 'eBt1puwu';
+
+		
+
+		Liferay.currentURL = '\x2fbuscar-ofertas\x3fp_p_id\x3dBuscadordeofertas_WAR_Candidatosportlet\x26p_p_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-1\x26p_p_col_pos\x3d1\x26p_p_col_count\x3d2\x26_Buscadordeofertas_WAR_Candidatosportlet_paginator\x3d1\x26_Buscadordeofertas_WAR_Candidatosportlet_action\x3dvolver\x26_Buscadordeofertas_WAR_Candidatosportlet_filtroProvincias\x3dZaragoza\x2ffavicon\x2eico';
+		Liferay.currentURLEncoded = '%2Fbuscar-ofertas%3Fp_p_id%3DBuscadordeofertas_WAR_Candidatosportlet%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-1%26p_p_col_pos%3D1%26p_p_col_count%3D2%26_Buscadordeofertas_WAR_Candidatosportlet_paginator%3D1%26_Buscadordeofertas_WAR_Candidatosportlet_action%3Dvolver%26_Buscadordeofertas_WAR_Candidatosportlet_filtroProvincias%3DZaragoza%2Ffavicon.ico';
+	// ]]>
+</script>
+
+
+	
+		
+			
+				<script src="/html/js/barebone.jsp?browserId=other&amp;themeId=Nortempo_WAR_Nortempotheme&amp;colorSchemeId=01&amp;minifierType=js&amp;minifierBundleId=javascript.barebone.files&amp;languageId=en_US&amp;b=6203&amp;t=1429195226000" type="text/javascript"></script>
+			
+			
+		
+	
+	
+
+
+<script type="text/javascript">
+	// <![CDATA[
+		
+
+			
+
+			
+				Liferay.Portlet.list = ['Buscadordeofertas_WAR_Candidatosportlet', '58'];
+			
+		
+
+		
+
+		
+	// ]]>
+</script>
+
+
+
+
+
+	
+		
+
+			
+
+			
+				<script type="text/javascript">
+					(function(i, s, o, g, r, a, m) {
+						i['GoogleAnalyticsObject'] = r;
+
+						i[r] = i[r] || function() {
+							var arrayValue = i[r].q || [];
+
+							i[r].q = arrayValue;
+
+							(i[r].q).push(arguments);
+						};
+
+						i[r].l = 1 * new Date();
+
+						a = s.createElement(o);
+						m = s.getElementsByTagName(o)[0];
+						a.async = 1;
+						a.src = g;
+						m.parentNode.insertBefore(a, m);
+					})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+					ga('create', 'UA-74143411-2', 'auto');
+					ga('send', 'pageview');
+				</script>
+			
+		
+		
+	
+
+
+
+	
+		
+		
+
+			
+
+			
+				<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-74143411-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-74143411-2');
+</script>
+			
+		
+	
+
+
+
+
+
+
+
+
+
+
+	
+
+				<script src="http://empleo.nortempo.com/Candidatos-portlet/js/jquery-1.10.2.min.js?browserId=other&amp;minifierType=js&amp;languageId=en_US&amp;b=6203&amp;t=1599282733369" type="text/javascript"></script>
+
+	
+
+				<script src="http://empleo.nortempo.com/Candidatos-portlet/plugins/jquery-ui/jquery-ui.min.js?browserId=other&amp;minifierType=js&amp;languageId=en_US&amp;b=6203&amp;t=1599282733369" type="text/javascript"></script>
+
+	
+
+				<script src="http://empleo.nortempo.com/Candidatos-portlet/plugins/jquery-dataTables/js/jquery.dataTables.min.js?browserId=other&amp;minifierType=js&amp;languageId=en_US&amp;b=6203&amp;t=1599282733369" type="text/javascript"></script>
+
+	
+
+				<script src="http://empleo.nortempo.com/Candidatos-portlet/plugins/dateFormat/dateFormat.js?browserId=other&amp;minifierType=js&amp;languageId=en_US&amp;b=6203&amp;t=1599282733369" type="text/javascript"></script>
+
+	
+
+
+
+
+
+
+
+
+
+
+
+<link class="lfr-css-file" href="http&#x3a;&#x2f;&#x2f;empleo&#x2e;nortempo&#x2e;com&#x2f;Nortempo-theme&#x2f;css&#x2f;main&#x2e;css&#x3f;browserId&#x3d;other&#x26;themeId&#x3d;Nortempo_WAR_Nortempotheme&#x26;minifierType&#x3d;css&#x26;languageId&#x3d;en_US&#x26;b&#x3d;6203&#x26;t&#x3d;1506340004898" rel="stylesheet" type="text/css" />
+
+
+
+
+	<style type="text/css">
+		div.privacy-info-message {
+    display: block;
+    background: white !important;
+    height: 130px !important;
+    border: 1px solid black;
+}
+div.privacy-info-message div.layout div.layout-content div.column-first {
+    display: block;
+    width: 100%;
+}
+
+#wrapper .privacy-info-message .layout-content .column button.btn.btn-primary {
+    color: white;
+    background: #da291c;
+    border-radius: 0;
+    padding: 10px;
+}
+#wrapper .privacy-info-message .layout-content .column button.btn {
+    color: #da291c;
+    background: 0;
+    border: medium none;
+    box-shadow: none;
+    text-shadow: none;
+}
+
+#wrapper .privacy-info-message .layout-content .column button {
+    display: block;
+    left: 50%;
+    position: relative;
+    width: 124px;
+    margin-left: -62px;
+    margin-bottom: 32px;
+    font-size: 12px;
+}
+	</style>
+
+
+
+
+
+	<style type="text/css">
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+	</style>
+
+
+
+	<script>
+			</script>
+</head>
+
+<body class=" yui3-skin-sam controls-visible guest-site signed-out public-page site dockbar-split">
+<a href="#main-content" id="skip-to-content">Skip to Content</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="container-fluid" id="wrapper">
+	
+	<div id="message-pers"><span></span></div>
+	<div id="error-pers"><span></span><a class="close-error-pers">x</a></div>
+	
+	<header class="banner" id="banner" role="banner">
+		<div class="container">
+			<div id="heading">
+				<h1 class="site-title">
+					<a class="logo default-logo" href="http://empleo.nortempo.com/buscar-ofertas?p_p_auth=7BUmRw73&amp;p_p_id=49&amp;p_p_lifecycle=1&amp;p_p_state=normal&amp;p_p_mode=view&amp;_49_struts_action=%2Fmy_sites%2Fview&amp;_49_groupId=10181&amp;_49_privateLayout=false" title="Go to Nortempo">
+						<!-- <img src="http://empleo.nortempo.com/Nortempo-theme/images/nortempo-recursos-humanos-trabajo-temporal.svg" alt="Nortempo Recursos Humanos Trabajo Temporal" title="Nortempo Recursos Humanos Trabajo Temporal"> -->
+						<!-- <span class="corner"></span> -->
+						<img src="http://empleo.nortempo.com/Nortempo-theme/images/CabeceraFirma25.jpg" alt="Nortempo Recursos Humanos Trabajo Temporal" title="Nortempo Recursos Humanos Trabajo Temporal">
+					</a>
+	
+				</h1>
+	
+				<h2 class="page-title">
+					<span>Buscador Ofertas</span>
+				</h2>
+			</div>
+			
+			<div class="info">
+            	<ul>
+                	<li><a class="linkedin" href="http://www.linkedin.com/company/nortempo" title="Linkedin" target="_blank"></a></li>
+                    <li><a class="facebook" href="https://www.facebook.com/nortempo" title="Facebook" target="_blank"></a></li>
+                    <li><a class="twitter" href="https://twitter.com/Nortempo" title="Twitter" target="_blank"></a></li>
+                                    </ul>
+            </div>
+            
+            <div class="lang">
+            	<div class="mod-languages">
+					<ul class="lang-inline">
+						<li class="" dir="ltr"><a href="#">Castellano</a></li>
+						<li class="" dir="ltr"><a href="#">Portugu&eacute;s</a></li>
+                    </ul>
+				</div>
+            </div>
+	
+							<nav class="sort-pages modify-pages navbar site-navigation" id="navigation" role="navigation">
+	<div class="navbar-inner">
+		<div class="collapse nav-collapse top-menu">
+			<ul aria-label="Site Pages" class="nav nav-collapse menu" role="menubar">
+				
+										
+					
+					<li class="lfr-nav-item selected active" id="layout_5" aria-selected='true' role="presentation">
+						<a aria-labelledby="layout_5"  class="" href="http&#x3a;&#x2f;&#x2f;empleo&#x2e;nortempo&#x2e;com&#x2f;buscar-ofertas"  role="menuitem">
+							<span>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Buscador Ofertas </span>
+						</a>
+
+											</li>
+				
+					
+					
+					<li class="lfr-nav-item" id="layout_1"  role="presentation">
+						<a aria-labelledby="layout_1"  class="" href="http&#x3a;&#x2f;&#x2f;empleo&#x2e;nortempo&#x2e;com&#x2f;welcome"  role="menuitem">
+							<span>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Inicio </span>
+						</a>
+
+											</li>
+							</ul>
+		</div>
+	</div>
+</nav>
+
+<script>
+	Liferay.Data.NAV_LIST_SELECTOR = '.navbar-inner .nav-collapse > ul';
+</script>					</div>
+	</header>
+
+
+	<div id="content">
+				
+
+					<div itemprop="articleBody">
+						<div class="imgCabecera imgFormCandidatos">
+							<noscript>
+								<div style="padding: 20px; border-radius: 4px; width: 80%; margin-left: 10%; text-align: center; background-color: rgb(254, 254, 254); border: 1px solid black; color: black;">Para utilizar las funcionalidades completas de este sitio es necesario tener JavaScript habilitado. Aquí están las <a href="http://www.enable-javascript.com/es/" target="_blank" style="color: red; text-decoration: none;"> instrucciones para habilitar JavaScript en tu navegador web</a>.</div>
+								<style type="text/css">
+									#main-content { display:none; }
+								</style>
+							</noscript>
+																								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="columns-1" id="main-content" role="main">
+	<div class="portlet-layout row-fluid">
+		<div class="portlet-column portlet-column-only span12" id="column-1">
+			<div class="portlet-dropzone portlet-column-content portlet-column-content-only" id="layout-column_column-1">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div class="portlet-boundary portlet-boundary_1_WAR_privacyportlet_  portlet-static portlet-static-start smc-privacy-portlet " id="p_p_id_1_WAR_privacyportlet_" >
+		<span id="p_1_WAR_privacyportlet"></span>
+
+
+
+	
+	
+	
+
+		
+
+			
+				
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<div class="privacy-info-message" id="_1_WAR_privacyportlet_privacy-info-message">
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="layout " >
+	<div class="layout-content ">
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="column w100  column-first column-last"  >
+	<div class="column-content column-content-first column-content-last " >
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+	<div class="text-center" style="color:black;">Esta web utiliza cookies técnicas, de personalización y de análisis, propias y de terceros, para anónimamente facilitarle la navegación, analizar estadísticas del uso de la web. &nbsp;</div>
+
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<button class="btn"  id="_1_WAR_privacyportlet_readMore"  type='button'  >
+	
+
+	Read More
+
+	
+</button>
+
+
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<button class="btn btn btn-primary"  id="_1_WAR_privacyportlet_okButton"  type='button'  >
+	
+
+	OK
+
+	
+</button>
+
+
+
+				</div></div>
+			</div></div>
+		
+	</div>
+
+	
+		
+	
+
+	
+
+
+
+				
+			
+
+		
+
+	
+
+
+
+
+
+		
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div class="portlet-boundary portlet-boundary_Buscadordeofertas_WAR_Candidatosportlet_  portlet-static portlet-static-end  " id="p_p_id_Buscadordeofertas_WAR_Candidatosportlet_" >
+		<span id="p_Buscadordeofertas_WAR_Candidatosportlet"></span>
+
+
+
+	
+	
+	
+
+		
+
+			
+				
+					
+						
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+
+		
+
+		
+			
+				
+
+<section class="portlet" id="portlet_Buscadordeofertas_WAR_Candidatosportlet">
+	
+			
+	<div class="portlet-content">
+		
+					<div class=" portlet-content-container" style="">
+						
+
+
+	<div class="portlet-body">
+
+
+
+	
+		
+			
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+				
+
+				
+					
+					
+						
+
+
+	
+
+		
+
+
+
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+<script type="text/javascript">
+	filterCategoriaList = [];
+	filterSubcategoriaList = [];
+	filterProvinciaList = [];
+	filterJornadaList = [];
+	
+	$( document ).ajaxStart(function() {
+		$('#loading').css("display", "block");
+		$("#resultadosJobs").animate({ "display": "none" }, 1500 );
+
+	});
+	
+	$( document ).ajaxStop(function() {
+		$('#loading').css("display", "none");
+		$("#resultadosJobs").animate({ "display": "block" }, 1500 );
+		$("html, body").animate({ scrollTop: "520" });
+	});
+
+	function seleccionarFiltros(){
+		var filtrado = $("#result-banner ul li input[type='checkbox']");
+		filtrado.each(function() {
+			if ($(this).attr("checked")){
+				switch($(this).parent().parent().attr("data-filter")){
+				case "categoria":
+					var ocultar = $(this).parent().text();
+					
+					if( filterCategoriaList.indexOf(ocultar) < 0 ) filterCategoriaList.push( ocultar );
+					else if( filterCategoriaList.indexOf(ocultar) >= 0 ) filterCategoriaList.splice( filterCategoriaList.indexOf(ocultar)  , 1);
+					
+					break;
+				case "subcategoria":
+					var ocultar = $(this).parent().text();
+
+					if( filterSubcategoriaList.indexOf(ocultar) < 0 ) filterSubcategoriaList.push( ocultar );
+					else if( filterSubcategoriaList.indexOf(ocultar) >= 0 ) filterSubcategoriaList.splice( filterSubcategoriaList.indexOf(ocultar)  , 1);
+					
+					break;
+				case "provincia":
+					var ocultar = $(this).parent().text();
+					
+					if( filterProvinciaList.indexOf(ocultar) < 0 ) filterProvinciaList.push( ocultar );
+					else if( filterProvinciaList.indexOf(ocultar) >= 0 ) filterProvinciaList.splice( filterProvinciaList.indexOf(ocultar)  , 1);
+					
+					break;
+				case "jornada":
+					var ocultar = $(this).parent().text();
+					
+					if( filterJornadaList.indexOf(ocultar) < 0 ) filterJornadaList.push( ocultar );
+					else if( filterJornadaList.indexOf(ocultar) >= 0 ) filterJornadaList.splice( filterJornadaList.indexOf(ocultar)  , 1);
+					
+					break;
+				}
+			}
+		});
+		
+		filterSearch();
+	}
+	
+	$(document).ready(function(){
+		
+		$.format = DateFormat.format;
+		
+		$('#tableInININin').dataTable({
+			"language": {
+				"emptyTable":     "No existen datos disponibles",
+				"info":           "Pagina _PAGE_ de _PAGES_",
+	            "infoEmpty":      "No hay registros disponibles",
+			    "infoPostFix":    "",
+			    "thousands":      ".",
+			    "lengthMenu":     "Mostrar _MENU_ registros por pagina",
+			    "loadingRecords": "Cargando...",
+			    "processing":     "Procesando...",
+			    "search":         "Filtrar:",
+			    "zeroRecords":    "No se ha encontrado nada - Lo sentimos",
+			    "paginate": {
+			        "first":      "Primera",
+			        "last":       "Ultima",
+			        "next":       "Siguiente",
+			        "previous":   "Anterior"
+			    }
+	        }		
+		});
+		
+		$("#result-banner ul li input[type='checkbox']").change(function() {
+			var filter = $(this).parent().parent().attr("data-filter");
+			var filtrado = $(this).parent().text();
+			switch(filter){
+				case "categoria":
+					var ocultar = filtrado;
+					
+					if( filterCategoriaList.indexOf(ocultar) < 0 ) filterCategoriaList.push( ocultar );
+					else if( filterCategoriaList.indexOf(ocultar) >= 0 ) filterCategoriaList.splice( filterCategoriaList.indexOf(ocultar)  , 1);
+					
+					break;
+				case "subcategoria":
+					var ocultar = filtrado;
+
+					if( filterSubcategoriaList.indexOf(ocultar) < 0 ) filterSubcategoriaList.push( ocultar );
+					else if( filterSubcategoriaList.indexOf(ocultar) >= 0 ) filterSubcategoriaList.splice( filterSubcategoriaList.indexOf(ocultar)  , 1);
+					
+					break;
+				case "provincia":
+					var ocultar = filtrado;
+					
+					if( filterProvinciaList.indexOf(ocultar) < 0 ) filterProvinciaList.push( ocultar );
+					else if( filterProvinciaList.indexOf(ocultar) >= 0 ) filterProvinciaList.splice( filterProvinciaList.indexOf(ocultar)  , 1);
+					
+					break;
+				case "jornada":
+					var ocultar = filtrado;
+					
+					if( filterJornadaList.indexOf(ocultar) < 0 ) filterJornadaList.push( ocultar );
+					else if( filterJornadaList.indexOf(ocultar) >= 0 ) filterJornadaList.splice( filterJornadaList.indexOf(ocultar)  , 1);
+					
+					break;
+			}
+			filterSearch();
+		});
+		
+		seleccionarFiltros();
+		
+        $('a[href="iraPrimero"]').click(function(e){
+        	e.preventDefault();
+
+        	var first = 1 ;
+     		var now =  parseInt( $("#PaginatorNumber").text() );
+     		var last = parseInt( $("#TotalPaginatorNumber").text() );
+        	 
+        	if(first < now ){
+	        	$.ajax({
+	    			type: "GET",
+	    			url: "http://empleo.nortempo.com/buscar-ofertas?p_p_id=Buscadordeofertas_WAR_Candidatosportlet&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=filterOffersAjax&p_p_cacheability=cacheLevelPage&p_p_col_id=column-1&p_p_col_pos=1&p_p_col_count=2&_Buscadordeofertas_WAR_Candidatosportlet_action=volver&_Buscadordeofertas_WAR_Candidatosportlet_filtroProvincias=Zaragoza%2Ffavicon.ico&_Buscadordeofertas_WAR_Candidatosportlet_paginator=1",
+	    			data: { pagina: 1 , buscarTrabajo: $('[name="buscarTrabajo"]').val() , filtroCategoria: filterCategoriaList.join("-separatorsnt-"), filtroSubcategoria: filterSubcategoriaList.join("-separatorsnt-"), filtroProvincias: filterProvinciaList.join("-separatorsnt-"), filtroJornadas: filterJornadaList.join("-separatorsnt-")},
+	    			success: function(data){
+	    				
+	    				var cuantasOfertas = data.substring(0, data.search("\\["));
+	    				var paginatorTotal = 0;
+	    				
+	    				if ( (cuantasOfertas % 8) == 0 ){
+	    					paginatorTotal = ( cuantasOfertas / 8);
+	    				}else{
+	    					paginatorTotal = ( cuantasOfertas / 8);
+	    					paginatorTotal++;
+	    				}
+	    				if(  cuantasOfertas <= 8 ){
+	    					paginatorTotal = 1;
+	    				}
+	    				
+	    				$("#resultados header h4").text("Tienes " + cuantasOfertas + " Ofertas");
+	    				$("#TotalPaginatorNumber").text( parseInt(paginatorTotal) );
+	    				
+	    				data = data.substring( data.search("\\["), data.length );
+	    				
+	    				$("#PaginatorNumber").text( 1 );
+	    				printOffers(data);
+	    				
+	    				controlPrevNext();
+	    			}
+	    		});
+        	}
+        });
+        
+        
+        
+        $('a[href="iraAnterior"]').click(function(e){
+        	e.preventDefault();
+        	
+        	var first = 1 ;
+     		var now =  parseInt( $("#PaginatorNumber").text() );
+     		var last = parseInt( $("#TotalPaginatorNumber").text() );
+     		
+        	if(first < now){
+	        	$.ajax({
+	    			type: "GET",
+	    			url: "http://empleo.nortempo.com/buscar-ofertas?p_p_id=Buscadordeofertas_WAR_Candidatosportlet&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=filterOffersAjax&p_p_cacheability=cacheLevelPage&p_p_col_id=column-1&p_p_col_pos=1&p_p_col_count=2&_Buscadordeofertas_WAR_Candidatosportlet_action=volver&_Buscadordeofertas_WAR_Candidatosportlet_filtroProvincias=Zaragoza%2Ffavicon.ico&_Buscadordeofertas_WAR_Candidatosportlet_paginator=1",
+	    			data: { pagina: $("#PaginatorNumber").text()-1 , buscarTrabajo: $('[name="buscarTrabajo"]').val() , filtroCategoria: filterCategoriaList.join("-separatorsnt-"), filtroSubcategoria: filterSubcategoriaList.join("-separatorsnt-"), filtroProvincias: filterProvinciaList.join("-separatorsnt-"), filtroJornadas: filterJornadaList.join("-separatorsnt-")},
+	    			success: function(data){
+	    				
+	    				var cuantasOfertas = data.substring(0, data.search("\\["));
+	    				var paginatorTotal = 0;
+	    				
+	    				if ( (cuantasOfertas % 8) == 0 ){
+	    					paginatorTotal = ( cuantasOfertas / 8);
+	    				}else{
+	    					paginatorTotal = ( cuantasOfertas / 8);
+	    					paginatorTotal++;
+	    				}
+	    				if(  cuantasOfertas <= 8 ){
+	    					paginatorTotal = 1;
+	    				}
+	    				
+	    				$("#resultados header h4").text("Tienes " + cuantasOfertas + " Ofertas");
+	    				$("#TotalPaginatorNumber").text( parseInt(paginatorTotal) );
+	    				
+	    				data = data.substring( data.search("\\["), data.length );
+	    				
+	    				$("#PaginatorNumber").text( $("#PaginatorNumber").text()-1 );
+	    				printOffers(data);
+	    				
+	    				controlPrevNext();
+	    			}
+	    		});
+        	}
+        });
+        
+        $('a[href="iraSiguiente"]').click(function(e){
+        	e.preventDefault();
+        	var first = 1 ;
+     		var now =  parseInt( $("#PaginatorNumber").text() );
+     		var last = parseInt( $("#TotalPaginatorNumber").text() );
+        	
+     		if( now < last ){
+        		$.ajax({
+        			type: "GET",
+        			url: "http://empleo.nortempo.com/buscar-ofertas?p_p_id=Buscadordeofertas_WAR_Candidatosportlet&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=filterOffersAjax&p_p_cacheability=cacheLevelPage&p_p_col_id=column-1&p_p_col_pos=1&p_p_col_count=2&_Buscadordeofertas_WAR_Candidatosportlet_action=volver&_Buscadordeofertas_WAR_Candidatosportlet_filtroProvincias=Zaragoza%2Ffavicon.ico&_Buscadordeofertas_WAR_Candidatosportlet_paginator=1",
+        			data: { pagina: parseInt( $("#PaginatorNumber").text() )+1 , buscarTrabajo: $('[name="buscarTrabajo"]').val() , filtroCategoria: filterCategoriaList.join("-separatorsnt-"), filtroSubcategoria: filterSubcategoriaList.join("-separatorsnt-"), filtroProvincias: filterProvinciaList.join("-separatorsnt-"), filtroJornadas: filterJornadaList.join("-separatorsnt-")},
+        			success: function(data){
+        				
+        				var cuantasOfertas = data.substring(0, data.search("\\["));
+        				var paginatorTotal = 0;
+        				
+        				if ( (cuantasOfertas % 8) == 0 ){
+        					paginatorTotal = ( cuantasOfertas / 8);
+        				}else{
+        					paginatorTotal = ( cuantasOfertas / 8);
+        					paginatorTotal++;
+        				}
+        				if(  cuantasOfertas <= 8 ){
+        					paginatorTotal = 1;
+        				}
+        				
+        				$("#resultados header h4").text("Tienes " + cuantasOfertas + " Ofertas");
+        				$("#TotalPaginatorNumber").text( parseInt(paginatorTotal) );
+        				
+        				data = data.substring( data.search("\\["), data.length );
+        				
+        				$("#PaginatorNumber").text( parseInt( $("#PaginatorNumber").text() )+1 );
+        				printOffers(data);
+        				
+        				controlPrevNext();
+        			}
+        		});
+        	}
+        });
+        
+        $('a[href="iraUltimo"]').click(function(e){
+        	e.preventDefault();
+        	       	 
+        	var first = 1 ;
+      		var now =  parseInt( $("#PaginatorNumber").text() );
+      		var last = parseInt( $("#TotalPaginatorNumber").text() );
+        	 
+        	if( now < last ){
+        		$.ajax({
+        			type: "GET",
+        			url: "http://empleo.nortempo.com/buscar-ofertas?p_p_id=Buscadordeofertas_WAR_Candidatosportlet&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=filterOffersAjax&p_p_cacheability=cacheLevelPage&p_p_col_id=column-1&p_p_col_pos=1&p_p_col_count=2&_Buscadordeofertas_WAR_Candidatosportlet_action=volver&_Buscadordeofertas_WAR_Candidatosportlet_filtroProvincias=Zaragoza%2Ffavicon.ico&_Buscadordeofertas_WAR_Candidatosportlet_paginator=1",
+        			data: { pagina: $("#TotalPaginatorNumber").text() , buscarTrabajo: $('[name="buscarTrabajo"]').val() , filtroCategoria: filterCategoriaList.join("-separatorsnt-"), filtroSubcategoria: filterSubcategoriaList.join("-separatorsnt-"), filtroProvincias: filterProvinciaList.join("-separatorsnt-"), filtroJornadas: filterJornadaList.join("-separatorsnt-")},
+        			success: function(data){
+        				
+        				var cuantasOfertas = data.substring(0, data.search("\\["));
+        				var paginatorTotal = 0;
+        				
+        				if ( (cuantasOfertas % 8) == 0 ){
+        					paginatorTotal = ( cuantasOfertas / 8);
+        				}else{
+        					paginatorTotal = ( cuantasOfertas / 8);
+        					paginatorTotal++;
+        				}
+        				if(  cuantasOfertas <= 8 ){
+        					paginatorTotal = 1;
+        				}
+        				
+        				$("#resultados header h4").text("Tienes " + cuantasOfertas + " Ofertas");
+        				$("#TotalPaginatorNumber").text( parseInt(paginatorTotal) );
+        				
+        				data = data.substring( data.search("\\["), data.length );
+        				
+        				$("#PaginatorNumber").text( $("#TotalPaginatorNumber").text() );
+        				printOffers(data);
+        				
+        				controlPrevNext();
+        			}
+        		});
+        	}
+        });
+        
+        controlPrevNext();
+        
+        
+        $('.mas-filtros').click(function(e){
+        	e.preventDefault();
+        	
+        	if( $(this).text() == "Menos" ){            	
+            	$.each( $(this).parent().parent().parent().find('li input') , function( indice , val ){
+        			if( indice > 4 ) $(val).parent().addClass('filter-hidden');
+        		});
+            	
+            	$(this).text("Más");
+        	}
+        	else{
+        		
+        		var filtro = $(this).attr('data-filter');
+            	$(this).parent().parent().parent().find('.filter-hidden').removeClass('filter-hidden');
+            	
+            	$(this).text("Menos");
+        		
+        	}
+        });
+        
+	});
+		
+	function printOffers(json){
+		
+		$("#result-list-jobs").children().remove();		
+		$.each($.parseJSON(json), function(idx, obj) {
+			
+			var url = "http://empleo.nortempo.com/buscar-ofertas?p_p_id=Buscadordeofertas_WAR_Candidatosportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_pos=1&p_p_col_count=2&_Buscadordeofertas_WAR_Candidatosportlet_action=viewOffer" + "&idOffer=" + obj.id + "&search=" + $('[name="buscarTrabajo"]').val() + "&paginator=" + $('#PaginatorNumber').text()+"&filtroCategoria="+ filterCategoriaList.join("-separatorsnt-")+"&filtroSubcategoria="+filterSubcategoriaList.join("-separatorsnt-")+"&filtroProvincias="+filterProvinciaList.join("-separatorsnt-")+"&filtroJornadas="+filterJornadaList.join("-separatorsnt-");	
+			
+			var str = '<li data-categoria="'+ obj.categoriaId.name +'" data-subcategoria="'+ obj.subcategoriaId.name+'" data-provincia="" data-jornada="'+ obj.jornadaLaboralId.name +'">';
+			str += '<div class="details-job"><header><h6><a href="' + url +'">' + obj.titulo + '</a></h6></header>';
+			str += '<div class="details-job-description">';
+			if (obj.oficina == null){
+				str += 'Nortempo. ';	
+			}else{
+				str += obj.oficina.replace('Oficina','Nortempo')+". ";				
+			}
+			if (obj.paisId.codigo != '108'){
+				str += obj.paisId.name;
+			}
+			if(obj.localidadesList.length > 0 ){
+				str += ' ';
+				$.each( obj.localidadesList , function( index, value ){
+					if( index < obj.localidadesList.length && index > 0 ){
+						str += ', ';
+					}
+					str += value.name;
+				});
+				str += ' ';
+			}else{
+				if( obj.provinciasList.length > 0 ){
+					$.each( obj.provinciasList , function( index, value ){
+						if( index < obj.provinciasList.length && index > 0 ){
+							str += ', ';
+						}
+						str += value.name;
+					});
+				}
+			}
+			if( obj.provinciasList.length > 0 ){
+				str += ' (';
+				$.each( obj.provinciasList , function( index, value ){
+					if( index < obj.provinciasList.length && index > 0 ){
+						str += ', ';
+					}
+					str += value.name;
+				});
+				str += ') ';
+			}
+			str += '</div>';		
+			str += '<div class="details-job-description">'+ $.format.date( new Date( obj.fechaPublicacion ) , "dd/MM/yyyy") +'</div>';
+			str += '<div class="details-job-footer">' + obj.descripcionEncabezado +'</div>';
+			str += '</div></li>';
+			
+			$("#result-list-jobs").append( $(str) );
+			controlPrevNext();
+
+		});
+	}
+	
+	function controlPrevNext(){
+		$('a[href="iraPrimero"]').removeClass("disabled");
+		$('a[href="iraAnterior"]').removeClass("disabled");
+		$('a[href="iraSiguiente"]').removeClass("disabled");
+		$('a[href="iraUltimo"]').removeClass("disabled");
+		
+		var first = 1 ;
+		var now =  parseInt( $("#PaginatorNumber").text() );
+		var last = parseInt( $("#TotalPaginatorNumber").text() );			
+		
+		if ( now == last ) {
+			$('a[href="iraSiguiente"]').addClass("disabled");
+			$('a[href="iraUltimo"]').addClass("disabled");
+		}
+		
+		if ( first == now ) {
+			$('a[href="iraPrimero"]').addClass("disabled");
+			$('a[href="iraAnterior"]').addClass("disabled");
+		}
+		
+		if ( first < now && now < last ) {}
+	}
+	
+	function filterSearch(){
+		$.ajax({
+			type: "GET",
+			url: "http://empleo.nortempo.com/buscar-ofertas?p_p_id=Buscadordeofertas_WAR_Candidatosportlet&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=filterOffersAjax&p_p_cacheability=cacheLevelPage&p_p_col_id=column-1&p_p_col_pos=1&p_p_col_count=2&_Buscadordeofertas_WAR_Candidatosportlet_action=volver&_Buscadordeofertas_WAR_Candidatosportlet_filtroProvincias=Zaragoza%2Ffavicon.ico&_Buscadordeofertas_WAR_Candidatosportlet_paginator=1",
+			data: { buscarTrabajo: $('[name="buscarTrabajo"]').val() , filtroCategoria: filterCategoriaList.join("-separatorsnt-"), filtroSubcategoria: filterSubcategoriaList.join("-separatorsnt-"), filtroProvincias: filterProvinciaList.join("-separatorsnt-"), filtroJornadas: filterJornadaList.join("-separatorsnt-"), pagina: $('#PaginatorNumber').text()},
+			success: function(data){
+				
+				// console.log(data);
+				
+				var cuantasOfertas = data.substring(0, data.search("\\["));
+				var paginatorTotal = 0;
+				
+				if ( (cuantasOfertas % 8) == 0 ){
+					paginatorTotal = ( cuantasOfertas / 8);
+				}else{
+					paginatorTotal = ( cuantasOfertas / 8);
+					paginatorTotal++;
+				}
+				if(  cuantasOfertas <= 8 ){
+					paginatorTotal = 1;
+				}
+				
+				$("#resultados header h4").text("Tienes " + cuantasOfertas + " Ofertas");
+				$("#TotalPaginatorNumber").text( parseInt(paginatorTotal) );
+				
+				data = data.substring( data.search("\\["), data.length );
+				
+				
+				if (parseInt($("#PaginatorNumber").text()) > ((parseInt(cuantasOfertas)+7)/8)){
+				    $("#PaginatorNumber").text( 1 );
+				} 
+				//$("#PaginatorNumber").text( 1 );
+				printOffers(data);
+				
+				controlPrevNext();
+			}
+		});
+	}
+	
+// 	function clean(url) {
+// 		 if (confirm("¿Esta usted seguro de que desea eliminar la busqueda actual?")){
+// 			location.href=url;
+// 		}
+// 	}
+	
+// 	function selectOrder(url){			
+// 		location.href=url;
+// 	};
+	
+// 	function closeOrder(url){			
+// 		location.href=url;
+// 	};
+</script>
+<!-- Form search job -->
+<div id="loading" style="left:0; top:0; bottom:0; right:0; z-index:999998; position:fixed; display:none;">
+	<div style="margin-left: 25%;width: 50%;margin-top: 300px;background-color: #FFF;line-height: 300px;border: 1px solid #888;border-radius: 7px;font-size: 24px;box-shadow: 3px 3px 40px -1px;">Cargando...</div>
+</div>
+
+<div>	
+	<form id="formInsideSearchJob" action="http://empleo.nortempo.com/buscar-ofertas?p_p_id=Buscadordeofertas_WAR_Candidatosportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_pos=1&p_p_col_count=2&_Buscadordeofertas_WAR_Candidatosportlet_action=searchJobs" method="post">
+		<div id="searchJob" class="box">			
+			<div id="title">
+				<div class="col-md-12">
+					<h2 class="title-box-h2">ENCUENTRA TU PRÓXIMO EMPLEO</h2>
+				</div>
+			</div>
+			
+			<div id="search">
+				<div class="col-md-12">
+					<label>
+						<input name="buscarTrabajo" type="text" value="" />
+						<input class="btn btn-danger" type="submit" name="submit" value="">
+					</label>
+				</div>
+			</div>		
+		</div>
+	</form>
+</div>
+
+<!-- div resultlist jobs searched-->
+<div id="resultadosJobs" class="box" style="padding:0;">
+	<!-- <div class="box"> -->
+	<div id="resultados" class="col-md-8" >
+		<header>
+			<h4>Tienes 0 Ofertas</h4>
+		</header>
+		<ul id="result-list-jobs">
+			
+		</ul>
+	</div>
+	<div id="result-banner" class="col-md-4" >
+		<header><h4>Filtro:<!-- <i class="icon-filter"> --></i></h4></header>
+		<ul data-filter="categoria">
+			<lh>Categoría</lh>
+			
+				<li class="" ><input type="checkbox" data-id-categoria="2" >Administración de empresas</li>
+			
+				<li class="" ><input type="checkbox" data-id-categoria="3" >Atención a clientes</li>
+			
+				<li class="" ><input type="checkbox" data-id-categoria="4" >Calidad, producción e I+D</li>
+			
+				<li class="" ><input type="checkbox" data-id-categoria="5" >Comercial y ventas</li>
+			
+				<li class="filter-hidden" ><input type="checkbox" data-id-categoria="6" >Compras, logística y almacén</li>
+			
+				<li class="filter-hidden" ><input type="checkbox" data-id-categoria="8" >Educación y formación</li>
+			
+				<li class="filter-hidden" ><input type="checkbox" data-id-categoria="10" >Informática y telecomunicaciones</li>
+			
+				<li class="filter-hidden" ><input type="checkbox" data-id-categoria="11" >Ingenieros y técnicos</li>
+			
+				<li class="filter-hidden" ><input type="checkbox" data-id-categoria="12" >Inmobiliario y construcción</li>
+			
+				<li class="filter-hidden" ><input type="checkbox" data-id-categoria="14" >Marketing y comunicación</li>
+			
+				<li class="filter-hidden" ><input type="checkbox" data-id-categoria="20" >Otros</li>
+			
+				<li class="filter-hidden" ><input type="checkbox" data-id-categoria="15" >Profesiones, artes y oficios</li>
+			
+				<li class="filter-hidden" ><input type="checkbox" data-id-categoria="16" >Recursos humanos</li>
+			
+				<li class="filter-hidden" ><input type="checkbox" data-id-categoria="17" >Sanidad y salud</li>
+			
+				<li class="filter-hidden" ><input type="checkbox" data-id-categoria="18" >Turismo y restauración</li>
+			
+				<li class="filter-hidden" ><input type="checkbox" data-id-categoria="19" >Ventas al detalle</li>
+			
+			
+				<li><h4><a href="" class="mas-filtros" data-filter="categoria">Más</a></h4></li>
+			
+		</ul>
+		<div class="divide40"></div>
+		<ul data-filter="subcategoria">
+			<lh>Subcategoría</lh>
+			
+				<li class=""><input type="checkbox" data-id-subcategoria="7"  >Administración</li>
+			
+				<li class=""><input type="checkbox" data-id-subcategoria="27"  >Agente comercial</li>
+			
+				<li class=""><input type="checkbox" data-id-subcategoria="32"  >Almacén</li>
+			
+				<li class=""><input type="checkbox" data-id-subcategoria="53"  >Análisis</li>
+			
+				<li class=""><input type="checkbox" data-id-subcategoria="77"  >Arquitectura y proyección</li>
+			
+				<li class="filter-hidden"><input type="checkbox" data-id-subcategoria="17"  >Atención al cliente</li>
+			
+				<li class="filter-hidden"><input type="checkbox" data-id-subcategoria="101"  >Automoción</li>
+			
+				<li class="filter-hidden"><input type="checkbox" data-id-subcategoria="102"  >Carpintería</li>
+			
+				<li class="filter-hidden"><input type="checkbox" data-id-subcategoria="19"  >Certificación de calidad</li>
+			
+				<li class="filter-hidden"><input type="checkbox" data-id-subcategoria="28"  >Comercial</li>
+			
+				<li class="filter-hidden"><input type="checkbox" data-id-subcategoria="33"  >Compras y aprovisionamiento</li>
+			
+				<li class="filter-hidden"><input type="checkbox" data-id-subcategoria="103"  >Confección</li>
+			
+				<li class="filter-hidden"><input type="checkbox" data-id-subcategoria="104"  >Consumo y alimentación</li>
+			
+				<li class="filter-hidden"><input type="checkbox" data-id-subcategoria="9"  >Dirección y gerencia</li>
+			
+				<li class="filter-hidden"><input type="checkbox" data-id-subcategoria="34"  >Distribución y logística</li>
+			
+				<li class="filter-hidden"><input type="checkbox" data-id-subcategoria="41"  >Educación especial</li>
+			
+				<li class="filter-hidden"><input type="checkbox" data-id-subcategoria="105"  >Electricidad</li>
+			
+				<li class="filter-hidden"><input type="checkbox" data-id-subcategoria="66"  >Electrónica y automática industrial</li>
+			
+				<li class="filter-hidden"><input type="checkbox" data-id-subcategoria="43"  >Enseñanza</li>
+			
+				<li class="filter-hidden"><input type="checkbox" data-id-subcategoria="56"  >ERP, CRM, Business Intelligence</li>
+			
+				<li class="filter-hidden"><input type="checkbox" data-id-subcategoria="119"  >Farmacia</li>
+			
+				<li class="filter-hidden"><input type="checkbox" data-id-subcategoria="44"  >Gestión de centros educativos</li>
+			
+				<li class="filter-hidden"><input type="checkbox" data-id-subcategoria="20"  >Gestión de la calidad</li>
+			
+				<li class="filter-hidden"><input type="checkbox" data-id-subcategoria="57"  >Gestión de proyectos</li>
+			
+				<li class="filter-hidden"><input type="checkbox" data-id-subcategoria="58"  >Hardware, redes y seguridad</li>
+			
+				<li class="filter-hidden"><input type="checkbox" data-id-subcategoria="59"  >Helpdesk</li>
+			
+				<li class="filter-hidden"><input type="checkbox" data-id-subcategoria="125"  >Hostelería</li>
+			
+				<li class="filter-hidden"><input type="checkbox" data-id-subcategoria="69"  >Industrial</li>
+			
+				<li class="filter-hidden"><input type="checkbox" data-id-subcategoria="80"  >Ingeniería de materiales</li>
+			
+				<li class="filter-hidden"><input type="checkbox" data-id-subcategoria="109"  >Limpieza</li>
+			
+				<li class="filter-hidden"><input type="checkbox" data-id-subcategoria="23"  >Mantenimiento</li>
+			
+				<li class="filter-hidden"><input type="checkbox" data-id-subcategoria="91"  >Marketing</li>
+			
+				<li class="filter-hidden"><input type="checkbox" data-id-subcategoria="25"  >Metrología</li>
+			
+				<li class="filter-hidden"><input type="checkbox" data-id-subcategoria="82"  >Oficios de la construcción</li>
+			
+				<li class="filter-hidden"><input type="checkbox" data-id-subcategoria="26"  >Operaciones</li>
+			
+				<li class="filter-hidden"><input type="checkbox" data-id-subcategoria="110"  >Otros oficios</li>
+			
+				<li class="filter-hidden"><input type="checkbox" data-id-subcategoria="60"  >Programación</li>
+			
+				<li class="filter-hidden"><input type="checkbox" data-id-subcategoria="74"  >Químico</li>
+			
+				<li class="filter-hidden"><input type="checkbox" data-id-subcategoria="116"  >Relaciones laborales</li>
+			
+				<li class="filter-hidden"><input type="checkbox" data-id-subcategoria="126"  >Restauración</li>
+			
+				<li class="filter-hidden"><input type="checkbox" data-id-subcategoria="111"  >Seguridad y vigilancia</li>
+			
+				<li class="filter-hidden"><input type="checkbox" data-id-subcategoria="117"  >Selección de personal</li>
+			
+				<li class="filter-hidden"><input type="checkbox" data-id-subcategoria="129"  >Sin especificar</li>
+			
+				<li class="filter-hidden"><input type="checkbox" data-id-subcategoria="61"  >Sistemas</li>
+			
+				<li class="filter-hidden"><input type="checkbox" data-id-subcategoria="113"  >Transporte</li>
+			
+				<li class="filter-hidden"><input type="checkbox" data-id-subcategoria="128"  >Venta al detalle</li>
+			
+			
+				<li><h4><a href="" class="mas-filtros" data-filter="subcategoria">Más</a></h4></li>
+			
+		</ul>
+		<div class="divide40"></div>
+		<ul data-filter="provincia">
+			<lh>Provincia</lh>
+			
+				<li class="" ><input type="checkbox" data-id-provincia="3"  >Alicante</li>
+			
+				<li class="" ><input type="checkbox" data-id-provincia="4"  >Almeria</li>
+			
+				<li class="" ><input type="checkbox" data-id-provincia="33"  >Asturias</li>
+			
+				<li class="" ><input type="checkbox" data-id-provincia="5"  >Avila</li>
+			
+				<li class="" ><input type="checkbox" data-id-provincia="7"  >Baleares</li>
+			
+				<li class="filter-hidden" ><input type="checkbox" data-id-provincia="8"  >Barcelona</li>
+			
+				<li class="filter-hidden" ><input type="checkbox" data-id-provincia="39"  >Cantabria</li>
+			
+				<li class="filter-hidden" ><input type="checkbox" data-id-provincia="18"  >Granada</li>
+			
+				<li class="filter-hidden" ><input type="checkbox" data-id-provincia="19"  >Guadalajara</li>
+			
+				<li class="filter-hidden" ><input type="checkbox" data-id-provincia="23"  >Jaen</li>
+			
+				<li class="filter-hidden" ><input type="checkbox" data-id-provincia="15"  >La Coruña</li>
+			
+				<li class="filter-hidden" ><input type="checkbox" data-id-provincia="26"  >La Rioja</li>
+			
+				<li class="filter-hidden" ><input type="checkbox" data-id-provincia="24"  >Leon</li>
+			
+				<li class="filter-hidden" ><input type="checkbox" data-id-provincia="27"  >Lugo</li>
+			
+				<li class="filter-hidden" ><input type="checkbox" data-id-provincia="28"  >Madrid</li>
+			
+				<li class="filter-hidden" ><input type="checkbox" data-id-provincia="29"  >Malaga</li>
+			
+				<li class="filter-hidden" ><input type="checkbox" data-id-provincia="30"  >Murcia</li>
+			
+				<li class="filter-hidden" ><input type="checkbox" data-id-provincia="31"  >Navarra</li>
+			
+				<li class="filter-hidden" ><input type="checkbox" data-id-provincia="32"  >Orense</li>
+			
+				<li class="filter-hidden" ><input type="checkbox" data-id-provincia="34"  >Palencia</li>
+			
+				<li class="filter-hidden" ><input type="checkbox" data-id-provincia="36"  >Pontevedra</li>
+			
+				<li class="filter-hidden" ><input type="checkbox" data-id-provincia="41"  >Sevilla</li>
+			
+				<li class="filter-hidden" ><input type="checkbox" data-id-provincia="43"  >Tarragona</li>
+			
+				<li class="filter-hidden" ><input type="checkbox" data-id-provincia="44"  >Teruel</li>
+			
+				<li class="filter-hidden" ><input type="checkbox" data-id-provincia="46"  >Valencia</li>
+			
+				<li class="filter-hidden" ><input type="checkbox" data-id-provincia="47"  >Valladolid</li>
+			
+				<li class="filter-hidden" ><input type="checkbox" data-id-provincia="50"  >Zaragoza</li>
+			
+			
+				<li><h4><a href="" class="mas-filtros" data-filter="provincia">Más</a></h4></li>
+			
+		</ul>
+		<div class="divide40"></div>
+		<ul data-filter="jornada">
+			<lh>Jornada</lh>
+			
+				<li class="" ><input type="checkbox" data-id-jornada="1"  >Completa</li>
+			
+				<li class="" ><input type="checkbox" data-id-jornada="2"  >Indiferente</li>
+			
+				<li class="" ><input type="checkbox" data-id-jornada="7"  >Intensiva - Mañana</li>
+			
+				<li class="" ><input type="checkbox" data-id-jornada="9"  >Intensiva - Noche</li>
+			
+				<li class="" ><input type="checkbox" data-id-jornada="8"  >Intensiva - Tarde</li>
+			
+				<li class="filter-hidden" ><input type="checkbox" data-id-jornada="10"  >Intensiva – Indiferente</li>
+			
+				<li class="filter-hidden" ><input type="checkbox" data-id-jornada="6"  >Parcial - Indiferente</li>
+			
+				<li class="filter-hidden" ><input type="checkbox" data-id-jornada="3"  >Parcial - Mañana</li>
+			
+				<li class="filter-hidden" ><input type="checkbox" data-id-jornada="4"  >Parcial - Tarde</li>
+			
+			
+				<li><h4><a href="" class="mas-filtros" data-filter="jornada">Más</a></h4></li>
+			
+		</ul>
+	</div>	
+	<!-- </div> -->
+	<div id="dialog">
+	</div>
+</div>
+
+<div id="search-pagination">
+    <div class="col-md-8 pagination-list">
+        <ul>
+            <li><a href="iraPrimero" title="Inicio">Primera página</a></li>
+            <li><a href="iraAnterior" title="Anterior">Página anterior</a></li>
+            <li><a href="iraSiguiente" title="Siguiente">Página siguiente</a></li>
+            <li><a href="iraUltimo" title="Final">Última página</a></li> 
+        </ul>
+    </div>
+    
+    <div class="col-md-4 counter">
+        <ul>
+            <li><a href="#">Pág. <span id="PaginatorNumber">1</span>/<span id="TotalPaginatorNumber">0</span></a></li>
+        </ul>
+    </div>
+</div>
+
+<script type = "text/javascript" >
+	history.pushState(null, null, location.href);
+    window.addEventListener('popstate', function(event) {
+    	history.pushState(null, null, location.href);
+    });
+</script>
+
+	
+	
+
+					
+				
+			
+		
+	
+	
+
+
+
+	</div>
+
+					</div>
+				
+	</div>
+</section>
+			
+			
+		
+	
+
+				
+				
+			
+
+		
+
+	
+
+
+
+
+
+		
+	</div>
+
+
+
+
+</div>
+		</div>
+	</div>
+</div>
+
+
+
+
+
+	
+
+
+
+
+
+<form action="#" id="hrefFm" method="post" name="hrefFm">
+	<span></span>
+</form>
+																					</div>
+					</div>
+
+	</div>
+
+	<footer>
+    	<div class="custom"  >
+            <div class="div990">
+                <div class="col-footer">
+                	<ul class="nav">
+						<li class="item-143"><a href="http://www.nortempo.com/es/" target="_blank">www.nortempo.com</a></li>
+					</ul>
+                </div>
+                <div class="col-footer">
+                	<ul class="nav">
+						<li class="item-146"><a target="_blanck" href="/informacion-legal">Informaci&oacute;n legal</a></li>
+					</ul>
+                </div>
+                <div class="col-footer">
+                	<ul class="nav">
+						<li class="item-151"><a target="_blanck" href="/politica-de-privacidad">Pol&iacute;tica de privacidad</a></li>
+					</ul>
+                </div>
+            </div>
+        </div>
+    </footer>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+	
+
+				<script src="http://empleo.nortempo.com/notifications-portlet/notifications/js/main.js?browserId=other&amp;minifierType=js&amp;languageId=en_US&amp;b=6203&amp;t=1599282733369" type="text/javascript"></script>
+
+	
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+// <![CDATA[
+
+	Liferay.Util.addInputFocus();
+
+	
+
+	
+		
+		
+
+			
+
+			
+		
+	
+
+// ]]>
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+		
+
+		
+	
+
+
+<script type="text/javascript">
+// <![CDATA[
+
+			Liferay.Portlet.onLoad(
+				{
+					canEditTitle: false,
+					columnPos: 0,
+					isStatic: 'start',
+					namespacedId: 'p_p_id_1_WAR_privacyportlet_',
+					portletId: '1_WAR_privacyportlet',
+					refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d12804\x26p_p_id\x3d1_WAR_privacyportlet\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-1\x26p_p_col_pos\x3d0\x26p_p_col_count\x3d2\x26p_p_static\x3d1\x26p_p_static_start\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fbuscar-ofertas\x253Fp_p_id\x253DBuscadordeofertas_WAR_Candidatosportlet\x2526p_p_lifecycle\x253D0\x2526p_p_state\x253Dnormal\x2526p_p_mode\x253Dview\x2526p_p_col_id\x253Dcolumn-1\x2526p_p_col_pos\x253D1\x2526p_p_col_count\x253D2\x2526_Buscadordeofertas_WAR_Candidatosportlet_paginator\x253D1\x2526_Buscadordeofertas_WAR_Candidatosportlet_action\x253Dvolver\x2526_Buscadordeofertas_WAR_Candidatosportlet_filtroProvincias\x253DZaragoza\x252Ffavicon\x2eico'
+				}
+			);
+		
+			Liferay.Portlet.onLoad(
+				{
+					canEditTitle: false,
+					columnPos: 1,
+					isStatic: 'end',
+					namespacedId: 'p_p_id_Buscadordeofertas_WAR_Candidatosportlet_',
+					portletId: 'Buscadordeofertas_WAR_Candidatosportlet',
+					refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d12804\x26p_p_id\x3dBuscadordeofertas_WAR_Candidatosportlet\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-1\x26p_p_col_pos\x3d1\x26p_p_col_count\x3d2\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fbuscar-ofertas\x253Fp_p_id\x253DBuscadordeofertas_WAR_Candidatosportlet\x2526p_p_lifecycle\x253D0\x2526p_p_state\x253Dnormal\x2526p_p_mode\x253Dview\x2526p_p_col_id\x253Dcolumn-1\x2526p_p_col_pos\x253D1\x2526p_p_col_count\x253D2\x2526_Buscadordeofertas_WAR_Candidatosportlet_paginator\x253D1\x2526_Buscadordeofertas_WAR_Candidatosportlet_action\x253Dvolver\x2526_Buscadordeofertas_WAR_Candidatosportlet_filtroProvincias\x253DZaragoza\x252Ffavicon\x2eico\x26_Buscadordeofertas_WAR_Candidatosportlet_action\x3dvolver\x26_Buscadordeofertas_WAR_Candidatosportlet_paginator\x3d1\x26_Buscadordeofertas_WAR_Candidatosportlet_filtroProvincias\x3dZaragoza\x252Ffavicon\x2eico'
+				}
+			);
+		AUI().use('aui-base', 'aui-io-deprecated', 'cookie', 'liferay-menu', 'liferay-notice', 'liferay-poller', 'liferay-session', 'liferay-util-window', function(A) {(function() {
+	Liferay.Util.addInputType();
+
+	Liferay.Portlet.ready(
+		function(portletId, node) {
+			Liferay.Util.addInputType(node);
+		}
+	);
+
+	if (A.UA.mobile) {
+		Liferay.Util.addInputCancel();
+	}
+})();(function() {
+	new Liferay.Menu();
+
+	var liferayNotices = Liferay.Data.notices;
+
+	for (var i = 1; i < liferayNotices.length; i++) {
+		new Liferay.Notice(liferayNotices[i]);
+	}
+
+	
+})();(function() {
+			Liferay.Session = new Liferay.SessionBase(
+				{
+					autoExtend: true,
+					sessionLength: 240,
+					redirectOnExpire: false,
+					redirectUrl: 'http\x3a\x2f\x2fempleo\x2enortempo\x2ecom\x2fweb\x2fguest',
+					warningLength: 1
+				}
+			);
+
+			
+		})();(function() {
+		var okButton = A.one('#_1_WAR_privacyportlet_okButton');
+		var readMore = A.one('#_1_WAR_privacyportlet_readMore');
+
+		okButton.on('click', function(e) {
+
+			hidePrivacyMessage();
+
+			e.halt();
+		});
+
+		readMore.on('click', function(e) {
+				e.preventDefault();
+
+				var dialog = Liferay.Util.Window.getWindow(
+					{
+						dialog: {
+							destroyOnClose: true,
+							modal: true,
+							centered: true,
+							width: 800,
+							height:600
+						},
+						title: 'politica-de-privacidad'
+					}
+				);
+
+				dialog.plug(
+					A.Plugin.IO,
+					{
+						uri: 'http://empleo.nortempo.com/buscar-ofertas?p_p_id=1_WAR_privacyportlet&p_p_lifecycle=0&p_p_state=pop_up&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=2&_1_WAR_privacyportlet_jspPage=%2Fdisplay%2Fview_privacy_policy.jsp'
+					}
+				);
+			},
+			['liferay-util-window', 'aui-io-plugin-deprecated']
+		);
+
+		var wrapper = A.one('#wrapper');
+
+		var privacyInfoMessage = A.one('.smc-privacy-portlet .privacy-info-message');
+
+		if (privacyInfoMessage) {
+			wrapper.addClass('wrapper-for-privacy-portlet');
+
+			var hideStripPrivacyInfoMessage = privacyInfoMessage.one('.hide-strip-privacy-info-message');
+
+			var hidePrivacyMessage = function() {
+
+				privacyInfoMessage.ancestor('.smc-privacy-portlet').hide();
+					// renewal
+					var today = new Date();
+					var expire = new Date();
+					var nDays=30;
+					expire.setTime(today.getTime() + 3600000*24*nDays);
+					var expString="expires="+expire.toGMTString();
+					cookieName = "PRIVACY_READ10181";
+					cookieValue =today.getTime();
+					document.cookie = cookieName+"="+escape(cookieValue)+ ";expires="+expire.toGMTString();
+
+				wrapper.removeClass('wrapper-for-privacy-portlet');
+			}
+
+			if (hideStripPrivacyInfoMessage) {
+
+				hideStripPrivacyInfoMessage.on('click', hidePrivacyMessage);
+			}
+
+		}
+	})();});
+// ]]>
+</script>
+
+
+
+
+
+
+
+
+
+<script src="http://empleo.nortempo.com/Nortempo-theme/js/main.js?browserId=other&amp;minifierType=js&amp;languageId=en_US&amp;b=6203&amp;t=1506340004898" type="text/javascript"></script>
+
+
+
+	
+
+	
+
+	<script type="text/javascript">
+		// <![CDATA[
+			function bloquearPage() {
+     var myWindow = window.open("", "_self");
+    myWindow.document.write("");
+    setTimeout (function() {myWindow.close();},1);
+}
+
+var buttonReadMore = $('[id$="privacyportlet_readMore"]');
+
+var buttonOkPrivacy = $('[id$="privacyportlet_okButton"]');
+var buttonCancelPrivacy = $('<button onclick="javascript:bloquearPage();">Cancelar</button>');
+    buttonCancelPrivacy.addClass('btn');
+    buttonCancelPrivacy.addClass('btn-primary');
+
+// Modify css
+buttonOkPrivacy.css('left', '0');
+buttonOkPrivacy.css('margin', '0 5px 0 5px');
+buttonOkPrivacy.css('display', 'inline-block');
+
+buttonCancelPrivacy.css('left', '0');
+buttonCancelPrivacy.css('margin', '0 5px 0 5px');
+buttonCancelPrivacy.css('display', 'inline-block');
+
+
+var globalDiv = $('<div></div>');
+
+globalDiv.append( buttonOkPrivacy );
+globalDiv.append( buttonCancelPrivacy );
+
+globalDiv.insertAfter(buttonReadMore);
+
+			
+		// ]]>
+	</script>
+
+
+
+
+
+
+</body>
+</html>
+
+
